@@ -1,1 +1,1 @@
-# CECS105BioPage
+# CECS 105 Webpage bio
